@@ -1,0 +1,8 @@
+joblib
+llvmlite
+numba
+numpy
+python-dotenv
+scikit-learn
+scipy
+threadpoolctl
